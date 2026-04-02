@@ -1,5 +1,5 @@
-#Laura's User Page
+Laura's User Page
 
-my favorite programming language is python!
+My favorite programming language is Python!
 
-link to published github pages: https://laura8885.github.io/
+Link to published github pages: https://laura8885.github.io/
