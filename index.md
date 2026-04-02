@@ -1,5 +1,17 @@
 # Laura's User Page
 
+## Table of Contents
+- [About Me](#about-me)
+- [Programming Interests](#programming-interests)
+- [Favorite Programming Language](#favorite-programming-language)
+- [Quote](#quote)
+- [Code Example](#code-example)
+- [Links](#links)
+- [Hobbies](#hobbies)
+- [Task List](#task-list)
+- [Image](#image)
+- [Relative Link](#relative-link)
+
 ## About Me
 Hi! I'm Laura, a Computer Science student interested in building meaningful and accessible technology.
 
