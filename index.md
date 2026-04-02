@@ -21,9 +21,9 @@ print("Hello, world!")
 - [GitHub](https://github.com/laura8885)
 
 ## Hobbies
-1 Piano
-2 Chess
-3 Drawing
+1. Piano
+2. Chess
+3. Drawing
 
 ## Task List
 - [x] Create repository
