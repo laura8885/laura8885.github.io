@@ -13,7 +13,7 @@
 - [Relative Link](#relative-link)
 
 ## About Me
-Hi! I'm Laura, a Computer Science student interested in building meaningful and accessible technology.
+Hi! I'm Laura, a Computer Science student interested in building meaningful and accessible technology. I enjoy listenining to music and traveling! I also like to learn things about AI and wants to see in what ways it can relate to the medical field.
 
 ## Programming Interests
 - Web development
